@@ -440,6 +440,7 @@
 
 ## Swift 
 
+- [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push customed notifications to your iPhone
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
 - [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
