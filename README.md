@@ -133,7 +133,7 @@
 - [kubernetes-sigs/etcdadm](https://github.com/kubernetes-sigs/etcdadm) - 
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [godcong/fate](https://github.com/godcong/fate) - Fate is a modern science chinese name create tool.
+- [babyname/fate](https://github.com/babyname/fate) - Fate is a modern science chinese name create tool.
 - [guyan0319/go-sso](https://github.com/guyan0319/go-sso) - 基于Golang实现的单点登录系统（go-sso），实现手机号注册、手机号+验证码登录、手机号+密码登录、账号登出等功能，用户认证采用cookie和jwt两种方式。
 - [fatih/structs](https://github.com/fatih/structs) - Utilities for Go structs
 - [prometheus/mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
