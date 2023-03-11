@@ -84,7 +84,7 @@
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-- [tompston/gomarvin](https://github.com/tompston/gomarvin) - Generate custom endpoints for Go REST servers & typesafe fetch functions
+- [tompston/gomarvin](https://github.com/tompston/gomarvin) - Generate custom endpoints & typesafe fetch functions for Go REST servers
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
@@ -216,9 +216,9 @@
 - [jordan-wright/email](https://github.com/jordan-wright/email) - Robust and flexible email library for Go
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [lpxxn/go-utils](https://github.com/lpxxn/go-utils) - 
-- [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A microservice framework for Go
+- [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A microservice framework for Go， offical docs: https://go-eagle.org/
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
-- [labring/sealos](https://github.com/labring/sealos) - sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications. Demo: https://cloud.sealos.io
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.d
@@ -267,7 +267,6 @@
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [lodastack/alarm-adapter](https://github.com/lodastack/alarm-adapter) - 
 - [tophubs/TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 - [vmware-archive/octant](https://github.com/vmware-archive/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -592,6 +591,7 @@
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [devopsprodigy/kubegraf](https://github.com/devopsprodigy/kubegraf) - Grafana-plugin for k8s' monitoring
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [Qihoo360/wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 
 ## Vim Script 
