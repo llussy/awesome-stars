@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Erlang](#erlang)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -95,8 +96,13 @@
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
+## Erlang 
+
+- [zhengqingya/docker-compose](https://github.com/zhengqingya/docker-compose) - 通过docker-compose编排一系列环境进行一键快速部署运行，小白运维神器。
+
 ## Go 
 
+- [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter) - A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone
 - [nosixtools/solarlunar](https://github.com/nosixtools/solarlunar) - 
 - [rsc/2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
@@ -388,6 +394,7 @@
 
 ## Java 
 
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [smartloli/EFAK](https://github.com/smartloli/EFAK) - A easy and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
 - [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
@@ -445,7 +452,7 @@
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 - [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
+- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) B站播放量 367.3万
 - [codeclou/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions](https://github.com/codeclou/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions) - Display Override PropertyList File Parser and Generator with HiDPI Support For Scaled Resolutions on macOS
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -470,7 +477,7 @@
 
 ## Kotlin 
 
-- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
 
 ## Lua 
 
@@ -541,7 +548,7 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 
 ## Perl 
 
@@ -708,7 +715,7 @@
 - [ritz078/moose](https://github.com/ritz078/moose) - 🦌  An application to stream, cast and download torrents.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run  https://sealos.io
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [devopsprodigy/kubegraf](https://github.com/devopsprodigy/kubegraf) - Grafana-plugin for k8s' monitoring
 - [Qihoo360/wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 
